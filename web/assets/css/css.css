@@ -1,0 +1,136 @@
+body {
+  font-family: Ubuntu Light;
+  font-weight: bold;
+  background-color: #EEEEEE;
+  padding-top: 70px;
+  height: 100%;
+}
+.main {
+  min-height: 100%;
+}
+html .main {
+  min-height: 100%;
+}
+html .main {
+  height: 100%;
+}
+.navbar-default .navbar-nav > li > a {
+  color: white;
+}
+.nava:hover{
+  color: white;
+}
+.leftbar {
+  height: 920px;
+}
+.navv{
+  height: 75px;
+  background-color: #303841;
+}
+.nava {
+  margin-top: 15px;
+}
+.navbar-brand img {
+  height: 60px;
+  margin-top: -25px;
+}
+.inp {
+  margin-top: 8px;
+  width: 150px;
+  height: 8px;
+}
+  .bir {
+    height: 300px;
+  }
+  .drop {
+    float: left;
+  }
+  .thumbnail img {
+    max-width: 100%;
+    height: 180px;
+  }
+  .navba ul li:hover {
+    color: white;
+  }
+  .solbar {
+    height: 600px;
+    background-color: #EEEEEE;
+    float: left;
+  }
+  .bir {
+    height: 80px;
+    padding: 10px;
+  }
+  .suret {
+    height: 60px;
+    width: 20%;
+    margin: auto;
+    float: left;
+  }
+  .onjak {
+    height: 60px;
+    width: 80%;
+    float: left;
+  }
+  .basy {
+    color: #303841;
+    height: 25px;
+    font-weight: bold
+  }
+  .basy:hover {
+    color: #428bca;
+  }
+  .sony {
+    font-size: 12px;
+    margin-bottom: 10px;
+    color: #555
+  }
+  .sony:hover {
+  }
+  blockquote {
+    content: ",,";
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    padding:20px 10px 20px 10px;
+    margin-bottom: 20px;
+  }
+  .well {
+    margin-top: 20px;
+  }
+  .photo {
+    margin: 0px 0px 30px 0px;
+    display: block;
+    text-align: center;
+    clear: both;
+  }
+  .photo img {
+    margin: 30px 30px 0px 0px;
+    border: 1px solid #ebebeb
+  }
+  .zhalgyz {
+    margin: 30px auto;
+    display: block;
+    border: 1px solid #ebebeb;
+    clear: both;
+  }
+  .lead {
+    font-size: 17px;
+  }
+
+  .orta{
+    text-align: center;
+  }
+  .footer {
+    height: 210px;
+    background-color: #303841;
+    width: 100%;
+    text-align: center;
+    color: #ebebeb;
+    position: relative;
+  }
+  .silteme {
+    display: inline-block;
+  }
+  .zhanalyk {
+    width: auto;
+    height: 620px;
+  }
